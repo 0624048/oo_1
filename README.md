@@ -1,43 +1,11 @@
-# 0624048 `蕭登全`
+1. 專題題目
+2. 文字敘述專題需求
+3. 寫出專題之功能性需求與非功能性需求
+4. 畫出 使用案例圖 (use case diagram)
+5. 由上而下 排出 使用案例的重要性
+6. 寫出 其中的 至少三個使用案例
+7. 寫出 user story 
 
-## 0624048 蕭登全
-
-### 0624048 蕭登全
-
-#### 0624048 蕭登全
-
-##### 0624048 蕭登全
-
-
-```
-###### 0624048 蕭登全
-```
-
-:kr:
-:arrow_right:
-:kr:
-
-
-+ 1
-+ 2
-+ 3
-+ 4
-
-| 123   |1234    |134 |
-|:----|:----:| ---:|
-|12333|1234|1234|
-|123|1234|1234|
-
-```java
-public class HelloWorld
-{
-	public static void main(String[] args) {
-		System.out.println("Hello World!");
-	}
-}
-```
-
-![picture](picture.jpg "圖")
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+專題題目:公共運輸訂票系統
+專題需求:讓使用者可以先選擇要搭乘的交通運輸工具,航班再進行訂票的動作
 
