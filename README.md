@@ -67,11 +67,11 @@
 
 初步類別圖
 
-![NKFUST](4.PNG "第一科大")
+![NKFUST](dia1.PNG "第一科大")
 
-![NKFUST](5.PNG "第一科大")
+![NKFUST](dia2.PNG "第一科大")
 
-![NKFUST](6.PNG "第一科大")
+![NKFUST](dia3.PNG "第一科大")
 
 系統循序圖
 
