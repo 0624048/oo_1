@@ -81,6 +81,11 @@
 
 ![NKFUST](9.PNG "第一科大")
 
+強韌圖
+
+![NKFUST](strong.PNG "第一科大")
+
+
 
 
 
